@@ -1,0 +1,8 @@
+/*General site style*/
+.navbar-textcolor {
+    color: #3b2f2f;
+}
+
+.nav-link.active {
+    font-weight: 600;
+}
